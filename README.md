@@ -26,7 +26,7 @@ Este é um projeto simples de uma página web criada para estudos e prática de 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/joaopontesz/CatholicPage.git
    ```
 
 2. Acesse o diretório do projeto:

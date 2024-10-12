@@ -1,0 +1,27 @@
+
+h1 {
+
+  color: rgb(0, 0, 0);
+
+  margin: auto;
+  margin-left: 35px;
+}
+
+div {
+  box-sizing: border-box;
+  width: 740px;
+  padding: 24px;
+  background-color: #F0E8C2;
+  border-radius: 24px;
+}
+.texto {
+  /* box-sizing: border-box;
+  width: 740px;
+  padding: 24px;
+  background-color: #F0E8C2;
+  border-radius: 24px; */
+ 
+  /* margin: auto; */
+
+  color: rgb(0, 0, 0);
+}

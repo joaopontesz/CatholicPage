@@ -42,3 +42,5 @@ Este é um projeto simples de uma página web criada para estudos e prática de 
 Este projeto foi criado para fins educacionais. Sinta-se à vontade para utilizá-lo e modificá-lo para seus próprios estudos e desenvolvimento.
 
 ---
+
+![rXdm1Vnmi7](https://github.com/user-attachments/assets/61a398c1-4ac5-4b3d-8952-5ba8b1540c87)

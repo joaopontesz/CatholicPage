@@ -20,7 +20,6 @@ Este é um projeto simples de uma página web criada para estudos e prática de 
 
 - **HTML5**: para a estruturação da página.
 - **CSS3**: para o design visual e estilo.
-  - Utiliza uma paleta de cores elegante, incluindo Creme Claro, Cinza Claro, Azul Petróleo e Dourado, para criar um ambiente agradável aos olhos e adequado ao tema.
 - **Fontes**: Georgia, uma fonte serifada clássica, foi usada para dar um toque mais elegante ao conteúdo textual.
 
 ## **Como Executar o Projeto**

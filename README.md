@@ -22,18 +22,6 @@ Este é um projeto simples de uma página web criada para estudos e prática de 
 - **CSS3**: para o design visual e estilo.
 - **Fontes**: Georgia, uma fonte serifada clássica, foi usada para dar um toque mais elegante ao conteúdo textual.
 
-## **Como Executar o Projeto**
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/joaopontesz/CatholicPage.git
-   ```
-
-2. Acesse o diretório do projeto:
-   ```bash
-   cd seu-repositorio
-   ```
-
 3. Abra o arquivo `index.html` diretamente no navegador ou use uma extensão de live server no editor de código para visualizar a página.
 
 ## **Estrutura do Projeto**

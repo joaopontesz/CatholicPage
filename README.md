@@ -42,5 +42,3 @@ Este é um projeto simples de uma página web criada para estudos e prática de 
 Este projeto foi criado para fins educacionais. Sinta-se à vontade para utilizá-lo e modificá-lo para seus próprios estudos e desenvolvimento.
 
 ---
-
-Sinta-se à vontade para adicionar ou modificar qualquer seção conforme necessário! Se precisar de mais informações ou ajustes, é só avisar.

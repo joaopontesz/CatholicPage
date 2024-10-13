@@ -1,4 +1,3 @@
-Aqui está uma versão atualizada do **README** para o seu projeto de página católica, considerando que não está usando imagens:
 
 ---
 
